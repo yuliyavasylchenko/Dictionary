@@ -1,0 +1,45 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Roboto', 'Merriweather Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: $black;
+    min-width: 360px;
+    background-color: rgb(200, 200, 200);
+}
+
+img {
+    height: auto;
+}
+
+h1 {
+    font-size: 54px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

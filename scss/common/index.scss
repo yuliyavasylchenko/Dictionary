@@ -1,0 +1,13 @@
+//==============Общий import файл для style.scss=============//
+/* Файлы расположены в правельной последовательности, для хорошей оптимизации  */
+
+//@import "./fonts.scss";
+//@import "./reset.scss";
+
+@import "./variables.scss";
+
+//@import "./extends.scss";
+//@import "./mixins.scss";
+
+@import "./animations.scss";
+@import "./common.scss";

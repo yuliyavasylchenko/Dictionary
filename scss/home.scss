@@ -1,0 +1,111 @@
+//=================MAIN=====================//
+.main {
+    min-height: 70vh;
+}
+
+.alphabit {
+    .kaypad {
+        color: $white_1;
+        border: none;
+
+        &:first-child {
+            background-color: $blue;
+        }
+
+        &:last-child {
+            background-color: $blue;
+        }
+
+        .kaypad-list li {
+            cursor: pointer;
+            color: $blue;
+            position: relative;
+            padding: 5px 13px;
+            border-radius: 40%;
+            background-color: $white_1;
+            width: 38px;
+            height: 32px;
+            transition: all .3s;
+
+            a {
+                color: $black;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translateX(-50%) translateY(-50%);
+            }
+
+            &:hover {
+                a {
+                    color: $black;
+                }
+
+                background-color: $orange;
+                transition: all .3s;
+            }
+        }
+    }
+}
+
+.dictionary {
+    ul {
+        li h4 {
+            font-style: italic;
+        }
+
+        li:nth-child(odd) {
+            border-right: 2px;
+        }
+
+        li:nth-child(4n+1) {
+            background-color: $li-blue;
+            border-top-left-radius: 7px;
+            border-bottom-left-radius: 7px;
+        }
+
+        li:nth-child(4n+4) {
+            background-color: $li-blue;
+            border-top-right-radius: 7px;
+            border-bottom-right-radius: 7px;
+        }
+
+        li:nth-child(4n+2) {
+            background-color: $li-gray;
+            border-top-right-radius: 7px;
+            border-bottom-right-radius: 7px;
+        }
+
+        li:nth-child(4n+3) {
+            background-color: $li-gray;
+            border-top-left-radius: 7px;
+            border-bottom-left-radius: 7px;
+        }
+
+        a {
+            color: $black;
+            cursor: pointer;
+            transition: all .3s;
+
+            &:hover {
+                text-shadow: 1px 5px 5px rgba(0, 0, 0, 0.3);
+                transition: all .3s;
+            }
+        }
+    }
+}
+
+//====================MEDIA===================//
+@media(max-width:600px) {
+    .kaypad-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .kaypad {
+        width: 100% !important;
+    }
+    .dictionary{ 
+        ul li {
+            width: 100% !important;
+        }
+    }
+}

@@ -1,0 +1,964 @@
+[
+  {
+    "name_ua": "абразивна обробка",
+    "name_en": "abrasive machining",
+    "description_ua": "механічна обробка виробів з металу, деревини, пластмаси, скла, шкіри та інших матеріалів абразивним інструментом.",
+    "description_en": "machining products made of metal, wood, plastic, glass, leather and other materials with abrasive tools."
+  },
+  {
+    "name_ua": "абсорбція",
+    "name_en": "absorption",
+    "description_ua": "вибіркове поглинання речовини з газового чи рідкого середовища усім об'ємом твердого тіла чи рідини.",
+    "description_en": "Selective absorption of a substance from a gas or liquid medium by the entire volume of a solid or liquid."
+  },
+  {
+    "name_ua": "абсциса",
+    "name_en": "abscissa",
+    "description_ua": "одна з координат точки в декартовій\nсистемі координат.",
+    "description_en": "one of the coordinates of a point in the Cartesian coordinate system."
+  },
+  {
+    "name_ua": "агломерат",
+    "name_en": "agglomerate",
+    "description_ua": "продукт спікання в грудки дрібнозернистої або пилеподібної руди.",
+    "description_en": "the product of sintering fine-grained or dusty ore into lumps."
+  },
+  {
+    "name_ua": "адсорбент",
+    "name_en": "adsorbent",
+    "description_ua": "тверда або рідка речовина, на поверхні частинок якої відбувається адсорбція.",
+    "description_en": "",
+    "": "",
+    "__1": "A solid or liquid substance on the surface of which adsorption occurs."
+  },
+  {
+    "name_ua": "Аксіальний струм",
+    "name_en": "axial current",
+    "description_ua": "В квантовій теорії поля операторний вираз, що перетворюється як 4-вектор при перетвореннях Лоренца і як аксіальний вектор при операціях віддзеркалення.",
+    "description_en": "Аxial current is an operator expression in quantum field theory that is transformed as a 4-vector in Lorentz transformations and as an axial vector in reflection operations."
+  },
+  {
+    "name_ua": "аксіома",
+    "name_en": "assumption",
+    "description_ua": "Твердження, яке вважається правильним без доведення, щоб слугувати точкою початку роздумів і аргументів.",
+    "description_en": "A statement that is assumed to be true without proof to serve as a starting point for reflection and argument."
+  },
+  {
+    "name_ua": "аксонометрія",
+    "name_en": "perspective geometry",
+    "description_ua": "Спосіб наочного зображення просторових форм на площині проєкцій методом паралельного проєкціювання з одержанням аксонометричних проєкцій.",
+    "description_en": "A method of visual representation of spatial forms on the projection plane by parallel projection with axonometric projections."
+  },
+  {
+    "name_ua": "амортизатор",
+    "name_en": "shock absorber",
+    "description_ua": "Пристрій для пом'якшування ударів у конструкціях машин і споруд з метою захисту їх від вібрацій та великих навантажень.",
+    "description_en": "A device for shock absorption in machine and building structures to protect them from vibrations and heavy loads."
+  },
+  {
+    "name_ua": "апроксимація",
+    "name_en": "approximation",
+    "description_ua": "Наближене вираження будь-яких величин через інші, більш відомі або більш простіші величини.",
+    "description_en": "An approximate expression of any quantity through other, better known or simpler quantities."
+  },
+  {
+    "name_ua": "аркфункція",
+    "name_en": "arcfunction",
+    "description_ua": "Математичні функції, що є оберненими до тригонометричних функцій.",
+    "description_en": "Mathematical functions that are the inverse of trigonometric functions."
+  },
+  {
+    "name_ua": "байт",
+    "name_en": "byte",
+    "description_ua": "Одиниця вимірювання обсягу цифрової інформації, яка зазвичай містить вісім бітів і представлена двійковим числом.",
+    "description_en": "Unit is a measurement of the amount of digital information that usually contains eight bits and is represented by a binary number."
+  },
+  {
+    "name_ua": "балка",
+    "name_en": "beam",
+    "description_ua": "Конструктивний елемент у вигляді стрижня (бруса), що зазнає здебільшого згину",
+    "description_en": "Structural element in the form of a rod (beam), which is mainly subjected to bending"
+  },
+  {
+    "name_ua": "біном",
+    "name_en": "binomial",
+    "description_ua": "Сума або різниця двох алгебраїчних виразів, що звуться членами біному.",
+    "description_en": "The sum or difference of two algebraic expressions called binomial terms."
+  },
+  {
+    "name_ua": "біфуркація",
+    "name_en": "bifurcation",
+    "description_ua": "зміна якісної поведінки динамічної\nсистеми за малої зміни її параметрів.",
+    "description_en": "Changing the qualitative behaviour of a dynamic system with a small change in its parameters."
+  },
+  {
+    "name_ua": "вал",
+    "name_en": "shaft",
+    "description_ua": "Одна з найголовніших деталей машин і механізмів, що обертається навколо своєї осі, призначена для передачі руху зв'язаним з нею частинам.",
+    "description_en": "One of the most important parts of machines and mechanisms, rotating around its axis, is designed to transmit motion to the parts connected to it."
+  },
+  {
+    "name_ua": "вал-шестірня",
+    "name_en": "pinion shaft",
+    "description_ua": "Синонім для поняття зубчасте колесо/триб, колоподібної деталі, що передає обертальний рух від одного вала механізму до іншого.",
+    "description_en": "A synonym for the term gear/trib, a circular part that transmits rotational motion from one shaft of a mechanism to another."
+  },
+  {
+    "name_ua": "валентність",
+    "name_en": "valence",
+    "description_ua": "Властивість атомів одного хімічного елемента з'єднуватися з певним числом атомів інших хімічних елементів.",
+    "description_en": "The ability of atoms of one chemical element to combine with a certain number of atoms of other chemical elements."
+  },
+  {
+    "name_ua": "вектор",
+    "name_en": "vector",
+    "description_ua": "Математичний об'єкт, що характеризується величиною і напрямком.",
+    "description_en": "A mathematical object characterised by magnitude and direction."
+  },
+  {
+    "name_ua": "вихор",
+    "name_en": "curl",
+    "description_ua": "Атмосферне утворення з обертальним рухом повітря навколо певної осі, рвучкий круговий рух вітру.",
+    "description_en": "An atmospheric formation with rotational movement of air around a certain axis, a rapid circular movement of the wind"
+  },
+  {
+    "name_ua": "вираз",
+    "name_en": "expression",
+    "description_ua": "Скінченна комбінація символів, граматично правильна щодо правил, застосовних в поточному контексті.",
+    "description_en": "A finite combination of characters that is grammatically correct with respect to the rules applicable in the current context"
+  },
+  {
+    "name_ua": "габарит",
+    "name_en": "overall size",
+    "description_ua": "Граничні зовнішні контури предметів, споруд та пристроїв.",
+    "description_en": "The outer boundaries of objects, structures and devices."
+  },
+  {
+    "name_ua": "гайка",
+    "name_en": "nut",
+    "description_ua": "Кріпильний виріб із різьбовим отвором, що утворює розбірне з'єднання за допомогою гвинта, болта або шпильки",
+    "description_en": "A fastening product with a threaded hole that forms a demountable connection by means of a screw, bolt or stud"
+  },
+  {
+    "name_ua": "галтель",
+    "name_en": "fillet",
+    "description_ua": "Форма поверхні у вигляді жолобка, виїмки на зовнішньому або внутрішньому ребрі деталі.",
+    "description_en": "The shape of a surface in the form of a groove, recess on the outer or inner edge of a part."
+  },
+  {
+    "name_ua": "гамма-функція",
+    "name_en": "gamma-function",
+    "description_ua": "Один із способів узагальнення функції факторіала, до дійсних і комплексних чисел, із зсувом її аргумента менше на 1.",
+    "description_en": "One way to generalise the factorial function to real and complex numbers with a shift of its argument by less than 1."
+  },
+  {
+    "name_ua": "гексаедр",
+    "name_en": "hexahedron",
+    "description_ua": "Різновид багатогранника, характеризується тим, що складається з шести граней, які є багатокутниками з п’ятьма сторонами або менше.",
+    "description_en": "A type of polyhedron characterised by the fact that it consists of six faces, which are polygons with five sides or less."
+  },
+  {
+    "name_ua": "гелікоїд",
+    "name_en": "helicoids",
+    "description_ua": "Гвинтова мінімальна поверхня, яка описується параметричними співвідношеннями і утворюється рухом прямої, що обертається навколо перпендикулярної до неї осі і одночасно поступально рухається в напряму цієї осі, причому швидкості цих рухів пропорційні.",
+    "description_en": "A helical minimal surface described by the parametric relations and is formed by the movement of a straight line rotating around an axis perpendicular to it and simultaneously moving progressively in the direction of this axis, and the speeds of these movements are proportional."
+  },
+  {
+    "name_ua": "гіпербола",
+    "name_en": "hyperbola",
+    "description_ua": "Крива другого порядку з ексцентриситетом більшим за одиницю.",
+    "description_en": "The curves and second-order curves with an eccentricity greater than one."
+  },
+  {
+    "name_ua": "гістограма",
+    "name_en": "histogram",
+    "description_ua": "Спосіб графічного представлення табличних даних, приблизне представлення розподілу числових даних.",
+    "description_en": "A method of graphically representing tabular data, an approximate representation of the distribution of numerical data."
+  },
+  {
+    "name_ua": "гомеоморфізм",
+    "name_en": "homeomorphism",
+    "description_ua": "Відображення між наборами вершин двох графів, яке відображає суміжні вершини в суміжні.",
+    "description_en": "A mapping between sets of vertices in two graphs that maps adjacent vertices to adjacent vertices."
+  },
+  {
+    "name_ua": "гомотопія",
+    "name_en": "homotopy",
+    "description_ua": "Поняття алгебричної топології, що формалізує поняття неперервної деформації одного об'єкта в інший.",
+    "description_en": "The concept of algebraic topology, which formalises the notion of continuous deformation of one object into another."
+  },
+  {
+    "name_ua": "ґрати",
+    "name_en": "railings",
+    "description_ua": "Перехресно розташовані металеві або дерев'яні прути, планки, штаби.",
+    "description_en": "Cross-arranged metal or wooden rods, slats, and rails."
+  },
+  {
+    "name_ua": "девіатор",
+    "name_en": "deviator",
+    "description_ua": "Передавальний пристрій, що виконують додаткове замикання, за допомогою наявних у нього ригелів і приводиться в рух від замка тягою, штангою або тросом.",
+    "description_en": "A transmission device that performs additional locking by means of the bolts available on the lock and is driven from the lock by a rod, bar or cable."
+  },
+  {
+    "name_ua": "детермінант",
+    "name_en": "determinant",
+    "description_ua": "Число,вираз складений за певним законом з n² елементів квадратної матриці.",
+    "description_en": "A number, an expression composed according to a certain law of n² elements of a square matrix."
+  },
+  {
+    "name_ua": "дивергенція",
+    "name_en": "divergence",
+    "description_ua": "Скалярне поле, яке характеризує густину джерел даного векторного поля.",
+    "description_en": "Scalar field characterising the density of sources of a given vector field ."
+  },
+  {
+    "name_ua": "диз’юнкція",
+    "name_en": "disjunction",
+    "description_ua": "Двомісна логічна операція, що має значення «істина», якщо хоча б один з операндів має значення «істина».",
+    "description_en": "A two-place Boolean operation that has a value of \"true\" if at least one of the operands has a value of \"true\"."
+  },
+  {
+    "name_ua": "дисперсія",
+    "name_en": "dispersion",
+    "description_ua": "Міра розсіяння значень випадкової величини відносно середнього значення розподілу.",
+    "description_en": "A measure of the dispersion of values of a random variable relative to the mean of the distribution."
+  },
+  {
+    "name_ua": "дистрибутивність",
+    "name_en": "distributivity",
+    "description_ua": "Властивість узгодженості двох бінарних операцій, визначених на одній множині.",
+    "description_en": "The consistency property of two binary operations defined on the same set."
+  },
+  {
+    "name_ua": "диференціал",
+    "name_en": "differential",
+    "description_ua": "Механічний пристрій, що передає обертання з одного джерела на два незалежні споживачі так, що кутові швидкості обертання джерела і обох споживачів можуть бути різними і їхнє співвідношення може бути непостійним, але відношення швидкості обертання джерела до суми швидкостей обох споживачів залишається постійним.",
+    "description_en": "A mechanical device that transmits rotation from one source to two independent consumers so that the angular speeds of the source and both consumers may be different and their ratio may be unstable, but the ratio of the source speed to the sum of the speeds of both consumers remains constant."
+  },
+  {
+    "name_ua": "додекаедр",
+    "name_en": "dodecahedron",
+    "description_ua": "Правильний дванадцятигранник, об'ємна геометрична фігура, поверхня якої складена з дванадцяти правильних п'ятикутників.",
+    "description_en": "A regular twelve-sided polyhedron, a three-dimensional geometric figure whose surface is made up of twelve regular pentagons."
+  },
+  {
+    "name_ua": "евольвента",
+    "name_en": "involute",
+    "description_ua": "Крива, що описується кінцем гнучкої нерозтяжної нитки закріпленої в деякій точці, що змотується з плоскої кривої.",
+    "description_en": "A curve described by the end of a flexible, non-stretchable thread fixed at a certain point, which is wound from a plane curve."
+  },
+  {
+    "name_ua": "ежекція",
+    "name_en": "ejection",
+    "description_ua": "Процес змішування двох середовищ (наприклад, газу і води), з яких одно, як транзитний струмінь, перебуваючи під тиском, діє на друге, підсмоктує і виштовхує його у певному напрямі.",
+    "description_en": "The process of mixing two media (e.g., gas and water), from which one acts as a transit jet under pressure on the other, sucking it up and pushing it in a certain direction."
+  },
+  {
+    "name_ua": "еквівалентність",
+    "name_en": "equivalence",
+    "description_ua": "Двомісна логічна операція, що має значення «істина» тоді і тільки тоді, коли обидва операнди мають однакове значення",
+    "description_en": "A two-place logical operation that is true if and only if both operands have the same value"
+  },
+  {
+    "name_ua": "електродвигун",
+    "name_en": "electric motor",
+    "description_ua": "Електрична машина, двигун, що перетворює електричну енергію на механічну.",
+    "description_en": "Electric machine, a motor that converts electrical energy into mechanical energy."
+  },
+  {
+    "name_ua": "електроніка",
+    "name_en": "electronics",
+    "description_ua": "Наука про взаємодію електронів з електромагнітними полями і про методи створення електронних приладів і пристроїв, в яких ця взаємодія використовується для перетворення електромагнітної енергії, в основному для передачі, обробки і зберігання інформації.",
+    "description_en": "The science of the interaction of electrons with electromagnetic fields and the methods of creating electronic devices and devices in which this interaction is used to convert electromagnetic energy, mainly for the transmission, processing and storage of information."
+  },
+  {
+    "name_ua": "енергетика",
+    "name_en": "energetics",
+    "description_ua": "Сукупність галузей господарства, що вивчають і використовують енергетичні ресурси з метою вироблення, перетворення, передавання і розподілу енергії.",
+    "description_en": "A set of sectors of the economy that study and use energy resources to generate, transform, transmit and distribute energy."
+  },
+  {
+    "name_ua": "епюра",
+    "name_en": "epure",
+    "description_ua": "Графік залежності однієї величини від іншої.",
+    "description_en": "Graph of the dependence of one value on another on another."
+  },
+  {
+    "name_ua": "ефективність",
+    "name_en": "effectivity",
+    "description_ua": "Ступінь віддачі виробництва, машин, апаратів.",
+    "description_en": "The degree of return on production, machinery and equipment."
+  },
+  {
+    "name_ua": "ємність",
+    "name_en": "capacity",
+    "description_ua": "Здатність тіла накопичувати електричний заряд.",
+    "description_en": "The capacity of the body to store electrical charge."
+  },
+  {
+    "name_ua": "жароміцність",
+    "name_en": "heat-resistance",
+    "description_ua": "Властивість конструкційних матеріалів (металевих, керамічних, полімерних тощо) при високих температурах чинити опір деформуванню і руйнуванню під дією механічних навантажень.",
+    "description_en": "The ability of structural materials (metal, ceramic, polymer, etc.) to resist deformation and fracture under mechanical stress at high temperatures."
+  },
+  {
+    "name_ua": "жаростійкість",
+    "name_en": "heat-resistance",
+    "description_ua": "Властивість матеріалу, що характеризує його здатність протистояти при високій температурі хімічному руйнуванню, переважно, окисненню а для неметалевих матеріалів і механічному руйнуванню.",
+    "description_en": "A property of a material that characterises its ability to resist chemical degradation at high temperature, mainly oxidation and, for non-metallic materials, mechanical degradation."
+  },
+  {
+    "name_ua": "живлення",
+    "name_en": "alimentation",
+    "description_ua": "Постачання струмом, пальним.",
+    "description_en": "Supply of electricity and fuel."
+  },
+  {
+    "name_ua": "жолоб",
+    "name_en": "runner",
+    "description_ua": "Дерев'яний, металевий і т. ін. пристрій для пересипання, пересування, переливання, зсипання, зливання чого-небудь.",
+    "description_en": "A wooden, metal, etc. device for pouring, moving, pouring, pouring, pouring, or draining something."
+  },
+  {
+    "name_ua": "забруднення",
+    "name_en": "pollution",
+    "description_ua": "Внесення в навколишнє середовище або виникнення в ньому нових, зазвичай не характерних фізичних чинників, хімічних і біологічних речовин, які шкодять природним екосистемам та людині.",
+    "description_en": "The introduction into the environment or the emergence of new, usually unusual physical factors, chemical and biological substances that harm natural ecosystems and humans."
+  },
+  {
+    "name_ua": "зварювання",
+    "name_en": "welding",
+    "description_ua": "Технологічний процес утворення нероз'ємного з'єднання між матеріалами при їх нагріванні або пластичному деформуванні за рахунок встановлення міжмолекулярних і міжатомних зв'язків",
+    "description_en": "The technological process of forming an inseparable connection between materials when they are heated or plastically deformed by establishing intermolecular and interatomic bonds."
+  },
+  {
+    "name_ua": "зливок",
+    "name_en": "ingot",
+    "description_ua": "Лита металева заготівка.",
+    "description_en": "Cast metal billet."
+  },
+  {
+    "name_ua": "зчеплення",
+    "name_en": "chaining",
+    "description_ua": "Механізм, що з'єднує двигун із трансмісією та дає змогу тимчасово роз'єднувати їх під час перемикання передач, гальмування і зупинки.",
+    "description_en": "A mechanism that connects the engine to the transmission and allows them to be temporarily disconnected during shifting, braking and stopping."
+  },
+  {
+    "name_ua": "ідентифікація",
+    "name_en": "identification",
+    "description_ua": "Встановлення відповідності розпізнаваного предмета своєму образу (знаку).",
+    "description_en": "Establishing the correspondence of the recognised object to its image (sign)."
+  },
+  {
+    "name_ua": "ізотропія",
+    "name_en": "isotropy",
+    "description_ua": "Однаковість фізичних властивостей речовини (теплопровідність, електропровідність, пружність, оптичні властивості тощо) в усіх напрямах.",
+    "description_en": "Uniformity of physical properties of a substance (thermal conductivity, electrical conductivity, elasticity, optical properties, etc.) in all directions."
+  },
+  {
+    "name_ua": "інверсія",
+    "name_en": "inversion",
+    "description_ua": "Зміна певного порядку",
+    "description_en": "Changing a certain order."
+  },
+  {
+    "name_ua": "інтеграл",
+    "name_en": "integral",
+    "description_ua": "Центральне поняття інтегрального числення, узагальнення поняття суми для функції, визначеній на континуумі.",
+    "description_en": "The central concept of integral calculus, a generalisation of the concept of sum for a function defined on a continuum."
+  },
+  {
+    "name_ua": "інтерполяція",
+    "name_en": "interpolation",
+    "description_ua": "Спосіб знаходження проміжних значень величини за наявним дискретним набором відомих значень.",
+    "description_en": "A method for finding intermediate values of a quantity given a discrete set of known values."
+  },
+  {
+    "name_ua": "інтерпретація",
+    "name_en": "interpretation",
+    "description_ua": "Трансляція та виконання кожного виразу вихідної мови машинної програми перед трансляцією та виконанням наступного виразу.",
+    "description_en": "Translate and execute each statement of the machine program source language before translating and executing the next statement."
+  },
+  {
+    "name_ua": "ітерація",
+    "name_en": "iteration",
+    "description_ua": "Результат багаторазового повторення якоїсь математичної операції.",
+    "description_en": "The result of repeated repetition of a mathematical operation."
+  },
+  {
+    "name_ua": "їдкий",
+    "name_en": "caustic",
+    "description_ua": "Який хімічно руйнує, роз'їдає що-небудь.",
+    "description_en": "It chemically destroys and corrodes anything."
+  },
+  {
+    "name_ua": "йод",
+    "name_en": "iodine",
+    "description_ua": "Хімічний елемент з атомним номером 53, найважчий нерадіоактивний неметал.",
+    "description_en": "A chemical element with atomic number 53, the heaviest non-radioactive non-metal."
+  },
+  {
+    "name_ua": "йон",
+    "name_en": "ion",
+    "description_ua": "Електрично заряджена частинка молекули, що утворилася з атома або атомної групи внаслідок втрати або приєднання до них електронів.",
+    "description_en": "An electrically charged particle of a molecule formed from an atom or an atomic group as a result of the loss or addition of electrons to them."
+  },
+  {
+    "name_ua": "карбонітрид",
+    "name_en": "carbonitride",
+    "description_ua": "Тугоплавка хімічна сполука, що є твердим розчином, утвореним карбідом і нітридом перехідного металу гафнію, що має найвищу, рекордну, на сьогоднішній день, температуру плавлення близько 4200 °С.",
+    "description_en": "A refractory chemical compound which is a solid solution formed by a carbide and a nitride of the transition metal hafnium, with the highest melting point to date of around 4200°C."
+  },
+  {
+    "name_ua": "катод",
+    "name_en": "cathode",
+    "description_ua": "Електрод деякого приладу, приєднаний до від'ємного полюса джерела струму.",
+    "description_en": "The electrode of a device connected to the negative pole of a current source."
+  },
+  {
+    "name_ua": "кислота",
+    "name_en": "acid",
+    "description_ua": "Електроліти, які при розчиненні в йонізуючому розчиннику (наприклад, у воді), дисоціюють з утворенням іонів водню (або протона Н+)",
+    "description_en": "Electrolytes that, when dissolved in an ionising solvent (e.g. water), dissociate to form hydrogen ions (or H+ proton)"
+  },
+  {
+    "name_ua": "кінематика",
+    "name_en": "kinematics",
+    "description_ua": "Розділ механіки, що вивчає способи опису руху матеріальних тіл без урахування їхньої маси, сил, які діють на них і причин виникнення руху.",
+    "description_en": "A branch of mechanics that studies ways to describe the motion of material bodies without taking into account their mass, the forces acting on them and the causes of motion."
+  },
+  {
+    "name_ua": "конфігурація",
+    "name_en": "configuration",
+    "description_ua": "Формула розташування електронів на різних електронних оболонках.",
+    "description_en": "The formula for the arrangement of electrons on different electronic shells."
+  },
+  {
+    "name_ua": "координата",
+    "name_en": "coordinate",
+    "description_ua": "Число, що визначає положення точки в системі координат",
+    "description_en": "A number defining the position of a point in a coordinate system"
+  },
+  {
+    "name_ua": "кореляція",
+    "name_en": "correlation",
+    "description_ua": "Статистичний взаємозв'язок, причинний чи ні, між двома випадковими змінними або двовимірними даними.",
+    "description_en": "A statistical relationship, whether causal or not, between two random variables or two-dimensional data."
+  },
+  {
+    "name_ua": "креслення",
+    "name_en": "drawing",
+    "description_ua": "Дисципліна зі створення стандартизованих технічних рисунків, що виконуються фахівцями інженерами, архітекторами тощо.",
+    "description_en": "The discipline of creating standardised technical drawings performed by specialists such as engineers, architects, etc."
+  },
+  {
+    "name_ua": "кут",
+    "name_en": "angle",
+    "description_ua": "Геометрична фігура, утворена двома променями (сторонами кута), які виходять з однієї точки, що називається вершиною кута.",
+    "description_en": "A geometric figure formed by two rays (sides of an angle) that come from the same point, called the vertex of an angle."
+  },
+  {
+    "name_ua": "лазер",
+    "name_en": "laser",
+    "description_ua": "Пристрій для генерування або підсилення монохроматичного світла, створення вузького пучка світла, здатного поширюватися на великі відстані без розсіювання і створювати винятково велику густину потужності випромінювання.",
+    "description_en": "A device for generating or amplifying monochromatic light, creating a narrow beam of light capable of propagating over long distances without scattering and producing an exceptionally high radiation power density."
+  },
+  {
+    "name_ua": "ланцюг",
+    "name_en": "chain",
+    "description_ua": "Набір металевих кілець, послідовно з'єднаних одне з одним.",
+    "description_en": "A set of meth of metal rings connected in series with each other."
+  },
+  {
+    "name_ua": "латунь",
+    "name_en": "brass",
+    "description_ua": "Сплав міді та цинку.",
+    "description_en": "Alloy of copper and zinc."
+  },
+  {
+    "name_ua": "ліквація",
+    "name_en": "liquation",
+    "description_ua": "Неоднорідність хімічного складу сплавів, яка виникає під час кристалізації.",
+    "description_en": "The heterogeneity of the chemical composition of alloys that occurs during crystallisation."
+  },
+  {
+    "name_ua": "логарифм",
+    "name_en": "logarithm",
+    "description_ua": "Число x , яке показує, до якого ступеня слід піднести число a (основу), щоб одержати число  b.",
+    "description_en": "The number x , which shows to what power the number a (base) should be raised to get the number b."
+  },
+  {
+    "name_ua": "логіка",
+    "name_en": "logic",
+    "description_ua": "Наука про закони та різновиди мислення, способи пізнання й умови істинності знань і суджень, про найпростіші форми, принципи та методи правильного міркування",
+    "description_en": "The science of laws and types of thinking, ways of knowing and conditions for the truth of knowledge and judgements, the simplest forms, principles and methods of correct reasoning."
+  },
+  {
+    "name_ua": "магніт",
+    "name_en": "magnet",
+    "description_ua": "Тіло, що має власне магнітне поле, магнітний диполь.",
+    "description_en": "A material that has its own magnetic field, a magnetic dipole."
+  },
+  {
+    "name_ua": "мантиса",
+    "name_en": "mantissa",
+    "description_ua": "Дробова частина десяткового логарифма додатного числа.",
+    "description_en": "The fractional part of the decimal logarithm of a positive number."
+  },
+  {
+    "name_ua": "матеріалознавство",
+    "name_en": "materials science",
+    "description_ua": "Міждисциплінарна галузь науки, що вивчає залежність між складом, структурою та властивостями матеріалів у взаємозв'язку з технологією їхнього отримання та перероблення, умовами експлуатації та вартістю, і яка спрямована на створення нових матеріалів, що задовольняли б потреби людини.",
+    "description_en": "An interdisciplinary field of science that studies the relationship between the composition, structure and properties of materials in relation to their production and processing technology, operating conditions and cost, and which aims to create new materials that meet human needs."
+  },
+  {
+    "name_ua": "матриця",
+    "name_en": "matrix",
+    "description_ua": "Штамп із витисненим у ньому заглибленням, що точно відповідає формі оброблюваної деталі.",
+    "description_en": "A stamp with a recess that is embossed in it to exactly match the shape of the workpiece."
+  },
+  {
+    "name_ua": "металургія",
+    "name_en": "metallurgy",
+    "description_ua": "Наука, техніка і галузь промисловості, які пов'язані з одержанням металів з руд.",
+    "description_en": "Science, technology and industry related to the extraction of metals from ores."
+  },
+  {
+    "name_ua": "метрологія",
+    "name_en": "metrology",
+    "description_ua": "Наука про вимірювання, та їх застосування.",
+    "description_en": "The science of measurements and their application"
+  },
+  {
+    "name_ua": "механіка",
+    "name_en": "mechanics",
+    "description_ua": "Наука про механічний рух та рівновагу тіл і взаємодію, що виникає при цьому між тілами.",
+    "description_en": "The science of mechanical motion and equilibrium of bodies and the interactions that occur between bodies."
+  },
+  {
+    "name_ua": "мікродефект",
+    "name_en": "microdefect",
+    "description_ua": "Порушення регулярної кристалічної структури металів.",
+    "description_en": "Disruption of the regular crystal structure of metals."
+  },
+  {
+    "name_ua": "мікротріщина",
+    "name_en": "microcrack",
+    "description_ua": "Тріщини порід-колекторів, які розрізняються лише в шліфах під мікроскопом.",
+    "description_en": "Cracks in the reservoir rocks, which can only be distinguished in microscopic views."
+  },
+  {
+    "name_ua": "модифікація",
+    "name_en": "modification",
+    "description_ua": "Підвид однієї моделі, який відрізняється суттєвими деталями основного оздоблення.",
+    "description_en": "A subspecies of one model that differs in significant details of the main finish."
+  },
+  {
+    "name_ua": "молібден",
+    "name_en": "molybdenum",
+    "description_ua": "Хімічний елемент,позначається як Мо, в періодичній таблиці елементів його атомний номер 42.",
+    "description_en": "The chemical element, denoted as Mo, has an atomic number of 42 in the periodic table of elements."
+  },
+  {
+    "name_ua": "навантаження",
+    "name_en": "load",
+    "description_ua": "Кількість (маса, об'єм, обсяг) оброблювального матеріалу, який надходить на апарат або транспортний пристрій за одиницю часу.",
+    "description_en": "The amount (weight, volume, volume) of workpiece material that is fed to the machine or conveying device per unit of time."
+  },
+  {
+    "name_ua": "номограма",
+    "name_en": "nomogram",
+    "description_ua": "Спеціальне креслення, яким зображується функціональна залежність між величинами.",
+    "description_en": "A special drawing that shows a functional relationship between quantities."
+  },
+  {
+    "name_ua": "нормалізація",
+    "name_en": "normalization",
+    "description_ua": "Вид термічної обробки сталі, що застосовується для підвищення міцності, ударної в'язкості, однорідності структури та покращення оброблюваності низьковуглецевої сталі, а також, для виправлення структури зварного з'єднання та зменшення внутрішніх напружень.",
+    "description_en": "A type of steel heat treatment used to increase the strength, impact strength, structural homogeneity and machinability of mild steel, as well as to correct the structure of the welded joint and reduce internal stresses."
+  },
+  {
+    "name_ua": "обертання",
+    "name_en": "revolution",
+    "description_ua": "Вид руху, при якому одна точка механічної системи, що називається центром обертання, залишається непорушною.",
+    "description_en": "A type of motion in which one point of a mechanical system, called the centre of rotation, remains stationary."
+  },
+  {
+    "name_ua": "обладнання",
+    "name_en": "equipment",
+    "description_ua": "Сукупність пристроїв, механізмів, приладів, інструментів тощо, необхідних для якої-небудь діяльності.",
+    "description_en": "A set of devices, mechanisms, instruments, tools, etc. required for an activity."
+  },
+  {
+    "name_ua": "об’єкт",
+    "name_en": "object",
+    "description_ua": "Матеріальний предмет пізнання і практичного впливу з боку людини; будь-який предмет думки, дослідження, художнього відображення тощо.",
+    "description_en": "A material object of cognition and practical influence on the part of a person; any object of thought, research, artistic representation, etc."
+  },
+  {
+    "name_ua": "об’єм",
+    "name_en": "volume",
+    "description_ua": "Місткість геометричного тіла, тобто частини простору, обмеженої однією або декількома замкнутими поверхнями.",
+    "description_en": "The capacity of a geometric body, i.e. a part of space bounded by one or more closed surfaces."
+  },
+  {
+    "name_ua": "однорідність",
+    "name_en": "homogeneity",
+    "description_ua": "Однаковість властивостей простору в усіх його точках.",
+    "description_en": "The uniformity of the properties of space in all its points."
+  },
+  {
+    "name_ua": "опір",
+    "name_en": "strength",
+    "description_ua": "Величина, яка характеризує спроможність елемента перетворювати електричну енергію на теплову.",
+    "description_en": "A value that characterises the ability of an element to convert electrical energy into heat."
+  },
+  {
+    "name_ua": "оптимізація",
+    "name_en": "optimization",
+    "description_ua": "Процес надання будь-чому найвигідніших характеристик, співвідношень.",
+    "description_en": "The process of making something have the most favourable characteristics and correlations."
+  },
+  {
+    "name_ua": "ордината",
+    "name_en": "ordinate",
+    "description_ua": "Одна з координат точки в декартовій системі координат.",
+    "description_en": "One of the coordinates of a point in the Cartesian coordinate system."
+  },
+  {
+    "name_ua": "парабола",
+    "name_en": "parabola",
+    "description_ua": "Геометричне місце точок, що рівновіддалені від точки і прямої.",
+    "description_en": "The geometric location of points equidistant from a point and a line."
+  },
+  {
+    "name_ua": "парадокс",
+    "name_en": "paradox",
+    "description_ua": "Формально логічна суперечність, яка полягає в тому, що в процесі доведення створюються умови для одночасного доказу істинності і хибності певного висловлювання, причому доведення істинності цього висловлювання неодмінно веде до визнання його хибності і навпаки.",
+    "description_en": "Formally, it is a logical contradiction that consists in the fact that in the process of proving, conditions are created for simultaneously proving the truth and falsity of a certain statement, and proving the truth of this statement necessarily leads to the recognition of its falsity and vice versa."
+  },
+  {
+    "name_ua": "паралелепіпед",
+    "name_en": "parallelepiped",
+    "description_ua": "Призма, основою для якої є паралелограм.",
+    "description_en": "A prism based on a parallelogram."
+  },
+  {
+    "name_ua": "паралелограм",
+    "name_en": "parallelogram",
+    "description_ua": "Чотирикутник, протилежні сторони якого попарно паралельні, тобто лежать на паралельних прямих.",
+    "description_en": "A quadrilateral whose opposite sides are parallel in pairs, i.e. lie on parallel lines."
+  },
+  {
+    "name_ua": "параметр",
+    "name_en": "parameter",
+    "description_ua": "Величина, що нею характеризують якусь властивість, стан, розмір або форму об'єкта, робочого тіла, процесу, явища або системи тощо.",
+    "description_en": "A value that characterises a property, state, size or shape of an object, working body, process, phenomenon or system, etc."
+  },
+  {
+    "name_ua": "перпендикуляр",
+    "name_en": "perpendicular",
+    "description_ua": "Сумарна довжина обмежувальних рамок, які обмежують геометричну фігуру на площині.",
+    "description_en": "The total length of the bounding boxes that delimit a geometric shape on the plane."
+  },
+  {
+    "name_ua": "пластмаса",
+    "name_en": "plastic",
+    "description_ua": "Штучно створені матеріали, основою яких є полімер, що перебуває під час формування виробу у в'язкорідкому чи високоеластичному стані, а під час експлуатації — в склоподібному чи кристалічному стані.",
+    "description_en": "Artificially created materials based on a polymer that is in a viscous or highly elastic state during the moulding of the product and in a glassy or crystalline state during use."
+  },
+  {
+    "name_ua": "платформа",
+    "name_en": "platform",
+    "description_ua": "Сукупність основних компонентів конструкції автомобіля.",
+    "description_en": "A set of the main components of a vehicle's structure."
+  },
+  {
+    "name_ua": "потужність",
+    "name_en": "power",
+    "description_ua": "Робота, що виконана за одиницю часу, або енергія, передана за одиницю часу.",
+    "description_en": "Work done per unit of time or energy transferred per unit of time."
+  },
+  {
+    "name_ua": "радикал",
+    "name_en": "radical",
+    "description_ua": "Хімічна частинка, що містить кілька неспарених електронів.",
+    "description_en": "A chemical particle containing several unpaired electrons."
+  },
+  {
+    "name_ua": "радіан",
+    "name_en": "radian",
+    "description_ua": "Площинний кут, утворений двома радіусами, так, що довжина дуги між ними дорівнює радіусу кола.",
+    "description_en": "A plane angle formed by two radii such that the arc between them is equal to the radius of the circle."
+  },
+  {
+    "name_ua": "редуктор",
+    "name_en": "reducer",
+    "description_ua": "Самостійний вузол, що встановлюється між електродвигуном і машиною (механізмом).",
+    "description_en": "An independent unit installed between an electric motor and a machine (mechanism)."
+  },
+  {
+    "name_ua": "свердління",
+    "name_en": "drilling",
+    "description_ua": "Поширений технологічний метод одержання отворів різанням, вид механічної обробки матеріалів різанням, при якому за допомогою спеціального різального інструменту (свердла), що обертається, отримують отвори різного діаметра і глибини, або багатогранні отвори різного перетину і глибини.",
+    "description_en": "A common technological method of producing holes by cutting, a type of machining of materials by cutting, in which holes of various diameters and depths or multifaceted holes of various cross-sections and depths are produced using a special rotating cutting tool (drill)."
+  },
+  {
+    "name_ua": "соленоїд",
+    "name_en": "solenoid",
+    "description_ua": "Фізичний прилад, котушка дроту, намотаного на циліндричну поверхню.",
+    "description_en": "A physical device, a coil of wire wound on a cylindrical surface."
+  },
+  {
+    "name_ua": "солітон",
+    "name_en": "soliton",
+    "description_ua": "Структурно стійка усамітнена (відокремлена) хвиля, що розповсюджується в нелінійному середовищі.",
+    "description_en": "A structurally stable solitary wave propagating in a nonlinear medium."
+  },
+  {
+    "name_ua": "Сталь",
+    "name_en": "steel",
+    "description_ua": "Сплав заліза з вуглецем, який містить від 0,02 до 2,14 % вуглецю і домішок (кремній, марганець, сірка, фосфор та гази).",
+    "description_en": "An alloy of iron and carbon containing from 0.02 to 2.14 % carbon and impurities (silicon, manganese, sulphur, phosphorus and gases)."
+  },
+  {
+    "name_ua": "станина",
+    "name_en": "stand",
+    "description_ua": "Основна корпусна частина агрегату (машини, верстата), на якій монтують усі вузли й деталі.",
+    "description_en": "The main body part of a machine or machine tool on which all components are mounted."
+  },
+  {
+    "name_ua": "Твердість",
+    "name_en": "hardness",
+    "description_ua": "Властивість матеріалу протидіяти проникненню в нього іншого тіла.",
+    "description_en": "The property of a material to resist the penetration of another body into it."
+  },
+  {
+    "name_ua": "температура",
+    "name_en": "temperature",
+    "description_ua": "Фізична величина, що є мірою інтенсивності теплового руху атомів і молекул.",
+    "description_en": "A physical quantity that is a measure of the intensity of thermal motion of atoms and molecules."
+  },
+  {
+    "name_ua": "тензор",
+    "name_en": "tensor",
+    "description_ua": "Математичний об'єкт, що узагальнює такі поняття як скаляр, вектор, ковектор, лінійний оператор і білінійна форма.",
+    "description_en": "A mathematical object that generalises such concepts as scalar, vector, covector, linear operator and bilinear form."
+  },
+  {
+    "name_ua": "товщина",
+    "name_en": "thickness",
+    "description_ua": "Розмір поперечного перерізу предмета, тіла, відстань у глибину від поверхні.",
+    "description_en": "The size of the cross-section of an object, body, distance in depth from the surface."
+  },
+  {
+    "name_ua": "траєкторія",
+    "name_en": "trajectory",
+    "description_ua": "Лінія, яку описує матеріальна точка, що рухається в просторі.",
+    "description_en": "A line described by a material point moving in space."
+  },
+  {
+    "name_ua": "тяжіння",
+    "name_en": "gravitation",
+    "description_ua": "Сила, що діє на будь-яке фізичне тіло, що знаходиться поблизу поверхні Землі або іншого астрономічного тіла.",
+    "description_en": "A force acting on any physical body near the surface of the Earth or another astronomical body."
+  },
+  {
+    "name_ua": "Уловлювач",
+    "name_en": "trap",
+    "description_ua": "Апарат, прилад для вловлювання чого-небудь.",
+    "description_en": "An apparatus, device for catching something."
+  },
+  {
+    "name_ua": "ущільнення",
+    "name_en": "compression",
+    "description_ua": "Технологічна операція отримання герметичного чи у певній мірі захищеного з'єднання деталей чи вузлів машин або апаратів.",
+    "description_en": "The technological operation of obtaining a sealed or somewhat protected connection of parts or assemblies of machines or apparatus."
+  },
+  {
+    "name_ua": "фактор",
+    "name_en": "factor",
+    "description_ua": "Використовувані у виробництві ресурси, від яких, головним чином, залежить обсяг продукції, що випускається.",
+    "description_en": "Resources used in production, which mainly determine the volume of output."
+  },
+  {
+    "name_ua": "фаска",
+    "name_en": "chamfer",
+    "description_ua": "Конструктивний елемент у вигляді скошеної частини гострого ребра чи окрайки на металевих, дерев'яних та інших виробах.",
+    "description_en": "A structural element in the form of a bevelled part of a sharp edge or a flange on metal, wood and other products."
+  },
+  {
+    "name_ua": "форсунка",
+    "name_en": "injector",
+    "description_ua": "Пристрій з одним або декількома отворами для розпилення рідини, яка надходить в нього під тиском.",
+    "description_en": "A device with one or more openings for spraying a pressurised fluid into it."
+  },
+  {
+    "name_ua": "фрезерування",
+    "name_en": "milling",
+    "description_ua": "Один з найпродуктивніших методів обробки.",
+    "description_en": "One of the most productive processing methods."
+  },
+  {
+    "name_ua": "фрикціон",
+    "name_en": "friction clutch",
+    "description_ua": "Керована муфта, що передає крутний момент за рахунок сил тертя, що виникають на робочих поверхнях деталей муфти.",
+    "description_en": "A driven coupling that transmits torque by means of friction forces generated on the working surfaces of the coupling parts."
+  },
+  {
+    "name_ua": "фюзеляж",
+    "name_en": "fuselage",
+    "description_ua": "Корпус літального апарата.",
+    "description_en": "The body of the aircraft."
+  },
+  {
+    "name_ua": "хлор",
+    "name_en": "chlorine",
+    "description_ua": "Важкий газ жовтувато-зеленого кольору з різким, задушливим запахом, неметал.",
+    "description_en": "A heavy yellowish-green gas with a pungent, asphyxiating odour, a non-metal."
+  },
+  {
+    "name_ua": "хонінгування",
+    "name_en": "honing",
+    "description_ua": "Вид абразивної обробки матеріалів із застосуванням хонінгувальних головок",
+    "description_en": "Type of abrasive processing of materials using honing heads"
+  },
+  {
+    "name_ua": "хром",
+    "name_en": "chromium",
+    "description_ua": "Хімічний елемент, із символом Cr і атомним номером 24, перший елемент шостої групи.",
+    "description_en": "The chemical element with the symbol Cr and atomic number 24, the first element of the sixth group."
+  },
+  {
+    "name_ua": "цапфа",
+    "name_en": "gudgeon",
+    "description_ua": "Частина вала або осі (зазвичай шліфована), що контактує з вальницею і безпосередньо сприймає навантаження від останньої.",
+    "description_en": "The part of a shaft or axle (usually ground) that is in contact with the roll and directly receives the load from the roll."
+  },
+  {
+    "name_ua": "циклограма",
+    "name_en": "cyclogram",
+    "description_ua": "Діаграма узгодження дій виконавчих органів у складних технологічних машинах та аґреґатах, які працюють за заданим циклом.",
+    "description_en": "A diagram of the coordination of the actions of actuators in complex technological machines and units operating on a given cycle."
+  },
+  {
+    "name_ua": "циліндр",
+    "name_en": "cylinder",
+    "description_ua": "Геометричне тіло, обмежене замкнутою циліндричною поверхнею і двома паралельними площинами, що перетинають її.",
+    "description_en": "A geometric body bounded by a closed cylindrical surface and two parallel planes intersecting it."
+  },
+  {
+    "name_ua": "цинк",
+    "name_en": "zinc",
+    "description_ua": "Хімічний елемент з атомним номером 30.",
+    "description_en": "A chemical element with atomic number 30."
+  },
+  {
+    "name_ua": "цистерна",
+    "name_en": "cistern",
+    "description_ua": "Резервуар для рідин, насамперед води, нафтопродуктів, розчинів хімічних речовин, сипких речовин тощо.",
+    "description_en": "A tank for liquids, primarily water, petroleum products, chemical solutions, bulk solids, etc."
+  },
+  {
+    "name_ua": "чавун",
+    "name_en": "cast iron",
+    "description_ua": "Велика судина, горщик з чавуну, пізніше також з алюмінієвого сплаву, округлої форми, для тушкування і варіння в печі.",
+    "description_en": "A large vessel, a pot made of cast iron, later also of aluminium alloy, of rounded shape, for stewing and cooking in an oven."
+  },
+  {
+    "name_ua": "частота",
+    "name_en": "frequency",
+    "description_ua": "Фізична величина, що дорівнює кількості однакових подій за одиницю часу.",
+    "description_en": "A physical quantity equal to the number of identical events per unit of time."
+  },
+  {
+    "name_ua": "чорні метали",
+    "name_en": "ferrous metals",
+    "description_ua": "Метали й сплави на основі заліза, марганцю, хрому.",
+    "description_en": "Metals and alloys based on iron, manganese and chromium."
+  },
+  {
+    "name_ua": "чотирикутник",
+    "name_en": "tetragon",
+    "description_ua": "Частина площини, обмежена простою замкненою ламаною, яка містить чотири ланки.",
+    "description_en": "The part of the plane bounded by a simple closed line containing four links."
+  },
+  {
+    "name_ua": "шарикопідшипник",
+    "name_en": "ball bearing",
+    "description_ua": "Підшипник, у якому між поверхнею деталі, що обертається, і поверхнею опори містяться шарики; шариковий підшипник.",
+    "description_en": "A bearing in which balls are placed between the surface of the rotating part and the surface of the support; ball bearing."
+  },
+  {
+    "name_ua": "шасі",
+    "name_en": "chassis",
+    "description_ua": "Сукупність агрегатів і вузлів сухопутних транспортних засобів та інших самохідних машин, змонтована на спільній рамі.",
+    "description_en": "A set of units and assemblies of land vehicles and other self-propelled machines mounted on a common frame."
+  },
+  {
+    "name_ua": "швидкість",
+    "name_en": "speed",
+    "description_ua": "Фізична величина, що відповідає відношенню переміщення тіла до проміжку часу, за який відбувалось переміщення.",
+    "description_en": "A physical quantity that corresponds to the ratio of a body's movement to the time interval during which the movement occurred."
+  },
+  {
+    "name_ua": "шестірня",
+    "name_en": "pinion",
+    "description_ua": "Зубчасте колесо/триб, колоподібної деталі, що передає обертальний рух від одного вала механізму до іншого.",
+    "description_en": "A gear wheel/trib, a circular part that transmits rotational motion from one shaft of a mechanism to another."
+  },
+  {
+    "name_ua": "шліфування",
+    "name_en": "grinding",
+    "description_ua": "Метод абразивної обробки поверхонь заготовок інструментом, що має вигляд тіла обертання, різальними елементами якого є безліч дуже твердих абразивних або алмазних зерен.",
+    "description_en": "A method of abrasive machining of workpiece surfaces with a tool that has the form of a body of rotation, the cutting elements of which are a set of very hard abrasive or diamond grains."
+  },
+  {
+    "name_ua": "шпонка",
+    "name_en": "key",
+    "description_ua": "Кріпильний елемент, який встановлюють у пазах двох дотичних деталей для запобігання їх відносного обертання чи зміщення.",
+    "description_en": "A fastener that is installed in the grooves of two tangent parts to prevent their relative rotation or displacement."
+  },
+  {
+    "name_ua": "щипці",
+    "name_en": "tongs",
+    "description_ua": "Загальна назва столярного, слюсарно-монтажного, перукарського інструменту у вигляді двох з'єднаних на шарнірі плоских або напівкруглих стержнів (губ, щік) з руків'ям.",
+    "description_en": "The general name for a carpentry, locksmithing, assembly, and hairdressing tool in the form of two flat or semicircular rods (lips, cheeks) with a handle connected at a hinge."
+  },
+  {
+    "name_ua": "щілина",
+    "name_en": "slot",
+    "description_ua": "Вузький довгастий отвір; шпара.",
+    "description_en": "A narrow oblong hole; a spar."
+  },
+  {
+    "name_ua": "щільність",
+    "name_en": "density",
+    "description_ua": "Якісна характеристика розташування об'єктів — без прогалин, властивість будь-якої множини, яка характеризує кількість елементів, що припадає на одиницю довжини, площі, об’єму.",
+    "description_en": "A qualitative characteristic of the arrangement of objects - without gaps, a property of any set that characterises the number of elements per unit length, area, volume."
+  },
+  {
+    "name_ua": "Щуп",
+    "name_en": "probe",
+    "description_ua": "Прилад для дослідження у вигляді бура або свердла для проникнення всередину твердого матеріалу, пустотілого прута (труби) для захоплення сипких матеріалів, тонкого металевого прута для виявлення порожнин і сипучих матеріалів, або для виявлення твердих матеріалів всередині м'яких.",
+    "description_en": "An investigative device in the form of a drill or drill bit for penetrating solid material, a hollow rod (pipe) for capturing loose materials, a thin metal rod for detecting cavities and loose materials, or for detecting hard materials inside soft materials."
+  },
+  {
+    "name_ua": "юстування",
+    "name_en": "adjustment",
+    "description_ua": "Сукупність операцій з приведення вимірювального приладу в робочий стан, який забезпечує необхідну його точність, правильність і надійність роботи.",
+    "description_en": "A set of operations to bring a measuring instrument into a working condition that ensures its required accuracy, correctness and reliability."
+  },
+  {
+    "name_ua": "ядро",
+    "name_en": "core",
+    "description_ua": "Основна частина, група певного колективу, яка визначає, організує і спрямовує його роботу, діяльність тощо; Основа чого-небудь. У переносному значенні — сутність, головна причина чого-небудь.",
+    "description_en": "The main part, group of a certain team that determines, organises and directs its work, activities, etc. In a figurative sense, the essence, the main reason for something."
+  },
+  {
+    "name_ua": "ярлик",
+    "name_en": "ярлик",
+    "description_ua": "Елемент графічного інтерфейсу",
+    "description_en": "Graphical interface element"
+  }
+]

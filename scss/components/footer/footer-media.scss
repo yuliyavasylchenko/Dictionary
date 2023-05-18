@@ -1,0 +1,15 @@
+@media (max-width:768px) {
+    .footer {
+        & ul {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px 30px;
+        }
+
+        .row {
+            gap: 10px 10px !important;
+        }
+    }
+
+}
